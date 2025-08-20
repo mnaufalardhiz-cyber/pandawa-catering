@@ -399,7 +399,7 @@
     <header>
         <div class="container">
             <div class="header-content">
-                <div class="logo">PADAWA <span>CATERING</span></div>
+                <div class="logo">PANDAWA <span>CATERING</span></div>
                 <nav>
                     <ul>
                         <li><a href="#home">Home</a></li>
