@@ -526,10 +526,10 @@
                 </div>
                 <div class="footer-column">
                     <h3>Kontak Kami</h3>
-                    <p>Jl. Kemanggisan Raya No.15</p>
-                    <p>Jakarta Selatan</p>
+                    <p>Jl. jl swaday 1 no 16 b</p>
+                    <p>kota bekasi</p>
                     <p>Telp: 089654736212</p>
-                    <p>Email: info@pandawacatering.com</p>
+                    <p>Email: huseinsumarsono7@gmail.com</p>
                 </div>
                 <div class="footer-column">
                     <h3>Jam Operasional</h3>
